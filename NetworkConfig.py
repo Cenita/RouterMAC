@@ -1,0 +1,3 @@
+LOGINPASSWORD = "H2t796bHc4xfbwK"
+TPLINKIP = "http://192.168.1.1"
+SENDURL = 'http://127.0.0.1:1500/'
